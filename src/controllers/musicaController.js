@@ -9,5 +9,4 @@ async function listar(req, res) {
     }
     
 }
-
 module.exports = {listar}
